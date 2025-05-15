@@ -1,7 +1,4 @@
-
 spring:
-    application:
-        name: demo-micro-crud
     datasource:
         url: jdbc:postgresql://localhost:5432/companies
         username: debuggeandoideas
